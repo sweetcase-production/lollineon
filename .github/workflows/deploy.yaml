@@ -44,4 +44,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.ACCOUNT_GITHUB_TOKEN }}
+          publish_branch: chore/set-auto-tailwind-compile
           publish_dir: ./_site
