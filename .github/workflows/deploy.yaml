@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - release
-      - chore/set-auto-tailwind-compile
 
 jobs:
   build:
