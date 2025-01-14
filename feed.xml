@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sweetcase-production.github.io/lollineon/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sweetcase-production.github.io/lollineon/" rel="alternate" type="text/html" /><updated>2024-12-26T01:20:43+00:00</updated><id>https://sweetcase-production.github.io/lollineon/feed.xml</id><title type="html">LolliNeon</title><entry><title type="html">Markdown Test 마크다운 테스트</title><link href="https://sweetcase-production.github.io/lollineon/kramdown_test/2024/09/14/markdown-test.html" rel="alternate" type="text/html" title="Markdown Test 마크다운 테스트" /><published>2024-09-14T16:04:25+00:00</published><updated>2024-09-14T16:04:25+00:00</updated><id>https://sweetcase-production.github.io/lollineon/kramdown_test/2024/09/14/markdown-test</id><content type="html" xml:base="https://sweetcase-production.github.io/lollineon/kramdown_test/2024/09/14/markdown-test.html"><![CDATA[<h1 id="h1">H1</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://sweetcase-production.github.io/lollineon/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sweetcase-production.github.io/lollineon/" rel="alternate" type="text/html" /><updated>2025-01-14T12:42:33+00:00</updated><id>https://sweetcase-production.github.io/lollineon/feed.xml</id><title type="html">LolliNeon</title><entry><title type="html">Markdown Test 마크다운 테스트</title><link href="https://sweetcase-production.github.io/lollineon/kramdown_test/2024/09/14/markdown-test.html" rel="alternate" type="text/html" title="Markdown Test 마크다운 테스트" /><published>2024-09-14T16:04:25+00:00</published><updated>2024-09-14T16:04:25+00:00</updated><id>https://sweetcase-production.github.io/lollineon/kramdown_test/2024/09/14/markdown-test</id><content type="html" xml:base="https://sweetcase-production.github.io/lollineon/kramdown_test/2024/09/14/markdown-test.html"><![CDATA[<h1 id="h1">H1</h1>
 <p>첫번째 내용</p>
 
 <h2 id="h2">H2</h2>
@@ -31,17 +31,18 @@
 
 <h1 id="이미지">이미지</h1>
 <p>이미지 불러오기
-기존 마크다운과 일치하나 이미지 루트 의 맨 앞에 site.baseurl 을 붙입니다.</p>
+기존 마크다운과 일치하나 이미지 루트 의 맨 앞에 site.baseurl 을 붙입니다.
+단 site.baseurl 이 따로 없는 경우, 붙이지 않아도 됩니다.</p>
 <ul>
   <li>Example</li>
 </ul>
 
-<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">!</span><span class="p">[</span><span class="n">testimage</span><span class="p">](</span><span class="o">/</span><span class="n">assets</span><span class="o">/</span><span class="n">img</span><span class="o">/</span><span class="n">post</span><span class="o">/</span><span class="n">example1</span><span class="p">.</span><span class="n">gif</span><span class="p">)</span>
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">!</span><span class="p">[</span><span class="n">testimage</span><span class="p">](</span><span class="o">/</span><span class="n">lollineon</span><span class="o">/</span><span class="n">assets</span><span class="o">/</span><span class="n">img</span><span class="o">/</span><span class="n">post</span><span class="o">/</span><span class="n">example1</span><span class="p">.</span><span class="n">gif</span><span class="p">)</span>
 </code></pre></div></div>
 
-<p>이 아래에 있는 건 이미지다</p>
+<p>이 아래에 있는 건 이미지 입니다.</p>
 
-<p><img src="/assets/img/post/example1.gif" alt="testimage" /></p>
+<p><img src="/lollineon/assets/img/post/example1.gif" alt="testimage" /></p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>aaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbccccccccccccccccdfdddddddddddddddddd
 </code></pre></div></div>
@@ -452,4 +453,4 @@ a^2 = b^2 + c^2 - 2bc\cos\alpha\]
     <span class="n">S</span> <span class="o">=</span> <span class="nf">input</span><span class="p">()</span>
 
 
-</code></pre></div></div>]]></content><author><name></name></author><category term="코테_뽀개기" /><category term="algorithm" /><summary type="html"><![CDATA[문제 백준: 팰린드롬수 [브론즈 1] leetcode: palindrome linked list [Easy]]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sweetcase-production.github.io/lollineon" /><media:content medium="image" url="https://sweetcase-production.github.io/lollineon" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</code></pre></div></div>]]></content><author><name></name></author><category term="코테_뽀개기" /><category term="algorithm" /><summary type="html"><![CDATA[문제 백준: 팰린드롬수 [브론즈 1] leetcode: palindrome linked list [Easy]]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sweetcase-production.github.io/lollineon/post/wolchul-mountain.jpg" /><media:content medium="image" url="https://sweetcase-production.github.io/lollineon/post/wolchul-mountain.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
