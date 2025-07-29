@@ -24,7 +24,7 @@
     del         { @apply    text-orange-500 dark:text-dark-primary-200 }
     strong      { @apply    underline underline-offset-4 decoration-[3px] decoration-light-primary-400 dark:decoration-yellow-200; }
     code        { @apply    font-code text-sm whitespace-pre-wrap }
-    table       { @apply    bg-yellow-50 dark:bg-zinc-900 shadow-paper-styled }
+    table       { @apply    bg-yellow-50 dark:bg-zinc-900 shadow-paper-styled text-xs; }
     th          { @apply    p-2 text-white bg-orange-300 dark:bg-zinc-700 }
     td          { @apply    p-2 border-b border-yellow-500 dark:border-zinc-500 }
     blockquote  { @apply    my-6 px-6 whitespace-pre-wrap break-words shadow-paper-styled
